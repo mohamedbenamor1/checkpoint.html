@@ -1,0 +1,152 @@
+
+.logo{
+    width: 100px;
+    
+}
+.content{
+    padding: 0;
+    margin: 0;
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    background-color: antiquewhite;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+
+}
+ul li{
+    display: inline-block; 
+}
+ul li a{
+    color: black;
+    margin: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+.content2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+
+
+}
+.content2 .text{
+    width: 40%;
+    color: black;
+
+}
+.content2 .text h2{
+    font-size: 40px;
+    text-transform: lowercase;
+
+}
+.content2 .text p{
+    font-size: 20px;
+    font-weight: 600;
+
+
+}
+.content2 .text a {
+    text-decoration: none;
+    background-color:aliceblue;
+    color: black;
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-weight: 700;
+    box-shadow: 20px;
+
+}
+.text img{
+    display: flex;
+    margin-top: 40px;
+    width: 15pc;
+    border: 1px solid black;
+    border-radius: 20px;
+
+}
+.imag .logos{
+    border: 1px solid yellow;
+    border-radius: 20px; 
+
+}
+.imag h3{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+
+
+}
+.imag span{
+    color:orange;
+
+}
+.seck2{
+    width: 100%;
+    height: 70%;
+    background-color: aliceblue;
+
+}
+.parag{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20x;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 20px;
+    transform: scale(11.0s);
+    
+
+}
+.p2{
+    background-color:aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 5px 25px rgba(1,1 ,1 ,1 );
+    transform: scale(1.1);
+    transition: 1.0s ease;
+}
+.p2:hover{
+    transform: scale(1.0);
+
+}
+.p3{
+    background-color:aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 5px 25px rgba(1,1 ,1 ,1 );
+    transform: scale(1.1);
+    transition: 1.0s ease;
+}
+.p3:hover{
+    transform: scale(1.0);
+}
+.p4{
+    background-color:aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 5px 25px rgba(1,1 ,1 ,1 );
+    transform: scale(1.1);
+    transition: 1.0s ease;
+}
+.p4:hover{
+    transform: scale(1.0);
+    
+
+}
+.parag img{
+    width: 40px;
+    display: flex;
+    align-items: center;
+
+}
+
+
