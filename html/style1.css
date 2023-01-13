@@ -1,0 +1,512 @@
+.logo1 li a:hover{
+    background-color: gray;
+    border-radius: 3px;
+    transform: scale(1.1);
+    transition: 1s;
+
+}
+.seck1{
+    width: 100%;
+    height: 13%;
+    
+
+}
+.logo1 li img{
+    width: 25px;
+
+}
+
+.logo1 li a{
+    font-size: 22px;
+    text-decoration: none;
+    color: aliceblue;
+    position: fixed;
+    font-weight: 600;
+}
+.logo1{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.logo2{
+    background-color: gray;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.logo2 img{
+    width: 40pc;
+    margin-left: 40pc ;
+    margin-top: 40pc;
+
+}
+.logo2 p{
+    font-size: 25px;
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;
+}
+.seck2{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(11, 11, 63);
+}
+.logos1 h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 110px;
+    padding-top: 7pc;
+    font-style: italic;
+
+}
+.logos1 p{
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+
+}
+.logos1 a{
+    margin: 10pc;
+    padding-top: 10pc;
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+.seck3{
+    width: 100%;
+    height: 100%;
+    padding-top: 1pc;
+    background-color:  rgb(11, 11, 63);
+}
+.log h1{
+    color: aliceblue;
+    font-size: 40px;
+    margin-left: 5pc;
+}
+.log h2{
+    font-size: 70px;
+    color: aliceblue;
+    margin-left: 5pc;
+
+}
+.log p{
+    margin-left: 5pc;
+    font-size: 25px;
+    color: aliceblue;
+
+}
+.seck4{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(11, 11, 63);
+}
+.big1{
+    width: 25pc;
+    height: 35pc;
+    border-radius: 10px;
+    background-color: aliceblue;
+
+}
+
+.big2{
+    width: 25pc;
+    height: 35pc;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.big3{
+    width: 25pc;
+    height: 35pc;
+    background-color: white;
+    border-radius: 10px;
+
+}
+.border{
+    display: flex;
+    justify-content: space-around;
+}
+.big1 img{
+    width: 160px;
+    margin-left: 8pc;
+    margin-top: 5pc;
+    transform: scale(1.0);
+    transition: 1s;
+}
+.big1 img:hover{
+    transform: scale(1.1);
+
+}
+.big2 img{
+    width: 230px;
+    margin-left: 7pc;
+    margin-top: 5pc;
+    transform: scale(1.0);
+    transition: 1s;
+
+}
+.big2 img:hover{
+    transform: scale(1.1);
+
+}
+.big3 img{
+    width: 250px;
+    margin-left: 6pc;
+    margin-top: 5pc;
+    transform: scale(1.0);
+    transition: 1s;
+
+}
+.big3 img:hover{
+    transform: scale(1.1);
+
+}
+.big1 h2{
+    margin-left: 130px;
+    font-size: 30px;
+
+}
+.big1 p{
+    margin-left: 130px;
+    margin-top: 50px;
+    font-size: 22px;
+    font-weight: 600;
+    font-style: italic;
+}
+.big2 h2{
+    font-size: 30px;
+    margin-left: 140px;
+
+}
+.big2 p{
+    margin-left: 9pc;
+    margin-top: 80px;
+    font-size: 25px;
+    font-weight: 600;
+    font-style: italic;
+
+}
+.big3 h2{
+    margin-left: 10pc;
+    font-size: 30px;
+}
+.big3 p{
+    margin-left: 11pc;
+    margin-top: 80px;
+    font-size: 25px;
+    font-weight: 600;
+    font-style: italic;
+
+}
+.big1 button{
+    margin-left: 10pc;
+    font-size: 20px;
+    width: 60px;
+    font-weight: 600;
+    font-style: italic;
+
+}
+.big2 button{
+    margin-left: 11pc;
+    font-size: 20px;
+    width: 60px;
+    font-weight: 600;
+    font-style: italic;
+}
+.big3 button{
+    margin-left: 12pc;
+    font-size: 20px;
+    font-weight: 600;
+    font-weight: 600;
+    width: 60px;
+
+}
+.seck5{
+    width: 100%;
+    height: 100%;
+
+}
+.pro1{
+    width: 25pc;
+    height: 25pc;
+    background-color:aliceblue;
+    border-radius: 20px;
+
+}
+.pro2{
+    width: 25pc;
+    height: 25pc;
+    background-color: aliceblue;
+    border-radius: 20px;
+
+}
+.pro{
+    display: flex;
+    justify-content: space-around;
+
+}
+.pro1 img{
+    margin-left: 5pc;
+    margin-top: 3pc;
+    transform: scale(1.0);
+    transition: 1s;
+
+}
+.pro1 img:hover{
+    transform: scale(1.1);
+
+}
+.pro2 img{
+    margin-left: 5pc;
+    margin-top: 3pc;
+    transform: scale(1.0);
+    transition: 1s;
+
+}
+.pro2 img:hover{
+    transform: scale(1.1);
+
+}
+.pro1 p{
+    margin-left: 10pc;
+    margin-top: 2pc;
+    font-size: 22px;
+    font-weight: 600;
+    font-style: italic;
+
+}
+.pro1 button{
+    margin-left: 11pc;
+    font-size: 20px;
+    width: 60px;
+    font-weight: 600;
+    font-style: italic;
+
+}
+.pro p{
+    margin-left: 10pc;
+    margin-top: 2pc;
+    font-size: 22px;
+    font-weight: 600;
+    font-style: italic;
+
+}
+.pro2 button{
+    margin-left: 11pc;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+
+}
+.p11 p{
+    font-size: 40px;
+    color: aliceblue;
+
+}
+.pa1 .a1 {
+    display: flex;
+}
+.pa1 .a1 a{
+    margin: 25px;
+    margin-top: 25pc;
+    font-size: 25px;
+    font-weight: 600;
+    font-style: italic;
+    color: aliceblue;
+
+}
+.pa1 {
+    margin-left: 60pc;
+}
+.seck6{
+    width: 100%;
+    height: 100%;
+}
+.head1 h1{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    font-style: italic;
+}
+.head2 h3{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+    counter-reset: none;
+    color: gray;
+}
+.bord{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.bord1{
+    width: 35pc;
+    height: 19pc;
+    background-color: aliceblue;
+    padding-right: 60px;
+    
+}
+.bord2{
+    width: 35pc;
+    height: 19pc;
+    background-color:aliceblue;
+    padding-right: 60px;
+    padding-bottom: 10px;
+}
+.bord1 img{
+    width: 50px;
+    margin-top: 5px;
+    margin-left: 10px;
+
+}
+.bord2 img{
+    width: 45px;
+    margin-top: 7px;
+    margin-left: 10px;
+
+}
+.bord1 p{
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: 700;
+    color: rgb(29, 28, 28);
+    font-style: italic;
+
+}
+.bord1 h2{
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(29, 28, 28);
+    margin-left: 25px;
+    font-style: italic;
+
+
+}
+.bord1 h3{
+    font-weight: 600;
+    font-style: italic;
+    margin-left: 25px;
+
+}
+.bord1 span{
+    margin-left: 5px;
+    background-color: gray;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: 800;
+
+}
+.bord2 p{
+    margin-left: 55px;
+    font-style: italic;
+    font-weight: 600;
+    color: rgb(48, 46, 46);
+
+}
+.bord2 h2{
+    margin-left: 20px;
+    font-style: italic;
+    font-weight: 700;
+}
+.bord2 h3{
+    margin-left: 25px;
+
+}
+.bord span{
+    margin-left: 10px;
+    background-color: gray;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+.bor1 img{
+    width: 60pc;
+    height: 20pc;
+    margin-top: 2pc;
+    border-radius: 5px;
+    
+
+}
+.bor1 h1{
+    text-align: center;
+    margin-top: 3pc;
+    font-size: 40px;
+    color: rgb(48, 46, 46);
+    text-decoration:underline;
+
+}
+.bor1 p{
+    text-align: center;
+    color: gray;
+    font-weight: 800;
+
+}
+.bor1 input{
+    font-style: italic;
+    margin-left: 50pc;
+    padding-bottom: 15pc;
+    padding-right: 2pc;
+    padding-left: 2pc;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 2pc;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px;
+    background-color: rgb(245, 236, 225);
+}
+
+.btn button{
+    margin-left: 58pc;
+    font-size: 23px;
+    font-weight: 700;
+    color: green;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-color: aliceblue;
+
+}
+.seck7{
+    width: 100%;
+    height: 30%;
+
+}
+.h1 h2{
+    margin-left: 40px;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 30px;
+    text-decoration: underline;
+
+}
+.h1 h3{
+    margin-left: 100px;
+    font-size: 30px;
+    text-decoration: underline;
+    color:rgb(71, 67, 67);
+
+}
+.h1 p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: underline;
+    font-style: italic;
+}
+.h1 a img{
+    width: 40px;
+    margin: 10px;
+
+}
+.imag2{
+    display: flex;
+    justify-content: center;
+    
+
+}
+button{
+    margin-left: 30pc;
+
+}
